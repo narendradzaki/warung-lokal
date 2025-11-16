@@ -2,8 +2,6 @@
 
 <div align="center">
 
-![Warung Lokal](https://placehold.co/800x400/334155/94a3b8?text=Warung+Lokal+UI)
-
 **Platform modern untuk memesan makanan dari UMKM lokal favorit Anda**
 
 [![Firebase Hosting](https://img.shields.io/badge/Firebase-Hosted-orange?logo=firebase)](https://umkmproject1.firebaseapp.com/)
